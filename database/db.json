@@ -1,0 +1,36 @@
+{
+  "livres": [
+    {
+      "titre": "L Etranger",
+      "auteur": "Albert Camus",
+      "description": "description ddddddddd .........",
+      "date": "2021-06-18",
+      "prix": "50000 DH",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "titre": "La Nuit sacrée ",
+      "auteur": "Tahar ben Jaloun",
+      "description": "description ...",
+      "prix": "45 DH",
+      "date": "12/06/2021"
+    },
+    {
+      "titre": "Le Pain nu",
+      "auteur": "Mohamed choukri",
+      "description": "description ...",
+      "date": "2021-06-16",
+      "prix": "45 DH",
+      "id": 3
+    },
+    {
+      "titre": "La Peste",
+      "auteur": "Albert Camus",
+      "description": "La Peste est un roman d’Albert Camus publié en 1947 et ayant reçu le prix des Critiques la même année. Il appartient au cycle de la révolte rassemblant trois œuvres de Camus, La Peste, L'Homme révolté et Les Justes qui ont permis en partie à son auteur de recevoir le prix Nobel de littérature en 1957.",
+      "date": "2021-06-15",
+      "prix": "250 DH",
+      "id": 6
+    }
+  ]
+}
